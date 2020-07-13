@@ -1,0 +1,9 @@
+<style type="text/css">
+h1 {font-size: 30px; color: teal}
+h2 {color: red; font-family:'Times New Roman', Times, serif;}
+.big{font-size: 60px;}
+.uppercase{text-transform: uppercase;}
+.big.uppercase {color: midnightblue}
+span{color:olive}
+body{background-color: lightgrey;}
+</style>
